@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesMinimalAPI\\wwwroot\\1.png",
+      "PackagePath": "staticwebassets\\1.png"
+    },
+    {
+      "Id": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesMinimalAPI\\wwwroot\\2.png",
+      "PackagePath": "staticwebassets\\2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MiddlewareSamplesMinimalAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MiddlewareSamplesMinimalAPI.props",
+      "PackagePath": "build\\MiddlewareSamplesMinimalAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MiddlewareSamplesMinimalAPI.props",
+      "PackagePath": "buildMultiTargeting\\MiddlewareSamplesMinimalAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MiddlewareSamplesMinimalAPI.props",
+      "PackagePath": "buildTransitive\\MiddlewareSamplesMinimalAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

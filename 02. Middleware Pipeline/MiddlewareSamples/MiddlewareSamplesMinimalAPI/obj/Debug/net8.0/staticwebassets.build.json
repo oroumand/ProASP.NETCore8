@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "kAed4n+TPzXnXkhPIT6M1tIJKsGdBRyqFns+bLlDyLc=",
+  "Source": "MiddlewareSamplesMinimalAPI",
+  "BasePath": "_content/MiddlewareSamplesMinimalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MiddlewareSamplesMinimalAPI\\wwwroot",
+      "Source": "MiddlewareSamplesMinimalAPI",
+      "ContentRoot": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesMinimalAPI\\wwwroot\\",
+      "BasePath": "_content/MiddlewareSamplesMinimalAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesMinimalAPI\\wwwroot\\1.png",
+      "SourceId": "MiddlewareSamplesMinimalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesMinimalAPI\\wwwroot\\",
+      "BasePath": "_content/MiddlewareSamplesMinimalAPI",
+      "RelativePath": "1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.png"
+    },
+    {
+      "Identity": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesMinimalAPI\\wwwroot\\2.png",
+      "SourceId": "MiddlewareSamplesMinimalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesMinimalAPI\\wwwroot\\",
+      "BasePath": "_content/MiddlewareSamplesMinimalAPI",
+      "RelativePath": "2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\2.png"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "yu+mVWIDWFzZx7gT3t5MXHX4/E1bitlvDnFWuLg6D5c=",
+  "Source": "MiddlewareSamplesFile",
+  "BasePath": "_content/MiddlewareSamplesFile",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MiddlewareSamplesFile\\wwwroot",
+      "Source": "MiddlewareSamplesFile",
+      "ContentRoot": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesFile\\wwwroot\\",
+      "BasePath": "_content/MiddlewareSamplesFile",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesFile\\wwwroot\\1.png",
+      "SourceId": "MiddlewareSamplesFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesFile\\wwwroot\\",
+      "BasePath": "_content/MiddlewareSamplesFile",
+      "RelativePath": "1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.png"
+    },
+    {
+      "Identity": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesFile\\wwwroot\\2.png",
+      "SourceId": "MiddlewareSamplesFile",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Sources\\ProASP.NETCore8\\02. Middleware Pipeline\\MiddlewareSamples\\MiddlewareSamplesFile\\wwwroot\\",
+      "BasePath": "_content/MiddlewareSamplesFile",
+      "RelativePath": "2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\2.png"
+    }
+  ]
+}
