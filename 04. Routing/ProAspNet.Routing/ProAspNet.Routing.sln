@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProAspNet.Routing.Middlewares", "ProAspNet.Routing.Middlewares\ProAspNet.Routing.Middlewares.csproj", "{B093CC1E-DF38-40DF-B532-9A4D212BBF72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.URLPattern", "ProAspNet.Routing.URLPattern\ProAspNet.Routing.URLPattern.csproj", "{F76B527E-BBF6-45EE-BAB8-828E52206C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.LinkGenerator", "ProAspNet.Routing.LinkGenerator\ProAspNet.Routing.LinkGenerator.csproj", "{DAC4DA45-EDA6-4114-B52F-8DC00C8861FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.MultipleValues", "ProAspNet.Routing.MultipleValues\ProAspNet.Routing.MultipleValues.csproj", "{A932C07D-BF74-41B7-9F70-DC09B31083BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.DefaultValues", "ProAspNet.Routing.DefaultValues\ProAspNet.Routing.DefaultValues.csproj", "{FF5E8D03-2326-4ABA-9286-5564C84F65CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.OptionalParameters", "ProAspNet.Routing.OptionalParameters\ProAspNet.Routing.OptionalParameters.csproj", "{ACC0B4E4-70F9-4FCC-B73C-F93687ECFDD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.CatchAll", "ProAspNet.Routing.CatchAll\ProAspNet.Routing.CatchAll.csproj", "{450D9ECC-CD32-4A4C-9974-E8CCF1275610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.Constraint", "ProAspNet.Routing.Constraint\ProAspNet.Routing.Constraint.csproj", "{2C45BEC4-8542-4295-B96F-6632BD7A6A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.Fallback", "ProAspNet.Routing.Fallback\ProAspNet.Routing.Fallback.csproj", "{13CE865E-909D-4412-AC63-1A515E004216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.Order", "ProAspNet.Routing.Order\ProAspNet.Routing.Order.csproj", "{640B9795-8A4F-4BED-BDF6-0A03584952D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProAspNet.Routing.AccessEndpoint", "ProAspNet.Routing.AccessEndpoint\ProAspNet.Routing.AccessEndpoint.csproj", "{BADF23EF-95C4-400D-9B39-E99CC51BE041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B093CC1E-DF38-40DF-B532-9A4D212BBF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B093CC1E-DF38-40DF-B532-9A4D212BBF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B093CC1E-DF38-40DF-B532-9A4D212BBF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B093CC1E-DF38-40DF-B532-9A4D212BBF72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76B527E-BBF6-45EE-BAB8-828E52206C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76B527E-BBF6-45EE-BAB8-828E52206C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76B527E-BBF6-45EE-BAB8-828E52206C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76B527E-BBF6-45EE-BAB8-828E52206C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC4DA45-EDA6-4114-B52F-8DC00C8861FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC4DA45-EDA6-4114-B52F-8DC00C8861FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC4DA45-EDA6-4114-B52F-8DC00C8861FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC4DA45-EDA6-4114-B52F-8DC00C8861FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A932C07D-BF74-41B7-9F70-DC09B31083BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A932C07D-BF74-41B7-9F70-DC09B31083BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A932C07D-BF74-41B7-9F70-DC09B31083BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A932C07D-BF74-41B7-9F70-DC09B31083BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5E8D03-2326-4ABA-9286-5564C84F65CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5E8D03-2326-4ABA-9286-5564C84F65CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5E8D03-2326-4ABA-9286-5564C84F65CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5E8D03-2326-4ABA-9286-5564C84F65CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC0B4E4-70F9-4FCC-B73C-F93687ECFDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC0B4E4-70F9-4FCC-B73C-F93687ECFDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC0B4E4-70F9-4FCC-B73C-F93687ECFDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC0B4E4-70F9-4FCC-B73C-F93687ECFDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450D9ECC-CD32-4A4C-9974-E8CCF1275610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450D9ECC-CD32-4A4C-9974-E8CCF1275610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450D9ECC-CD32-4A4C-9974-E8CCF1275610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450D9ECC-CD32-4A4C-9974-E8CCF1275610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C45BEC4-8542-4295-B96F-6632BD7A6A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C45BEC4-8542-4295-B96F-6632BD7A6A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C45BEC4-8542-4295-B96F-6632BD7A6A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C45BEC4-8542-4295-B96F-6632BD7A6A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CE865E-909D-4412-AC63-1A515E004216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CE865E-909D-4412-AC63-1A515E004216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CE865E-909D-4412-AC63-1A515E004216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CE865E-909D-4412-AC63-1A515E004216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640B9795-8A4F-4BED-BDF6-0A03584952D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640B9795-8A4F-4BED-BDF6-0A03584952D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640B9795-8A4F-4BED-BDF6-0A03584952D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640B9795-8A4F-4BED-BDF6-0A03584952D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADF23EF-95C4-400D-9B39-E99CC51BE041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADF23EF-95C4-400D-9B39-E99CC51BE041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADF23EF-95C4-400D-9B39-E99CC51BE041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADF23EF-95C4-400D-9B39-E99CC51BE041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F44A34F-74B9-4D2A-8A1D-352D62986437}
+	EndGlobalSection
+EndGlobal
